@@ -1,0 +1,52 @@
+p {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1;
+    letter-spacing: 1.5px;
+    padding: 0 10%;
+}
+
+h1{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+}
+
+h2 {
+    color:rgb(40, 0, 219);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+}
+
+h3 {
+    color:rgb(0, 109, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+    padding: 0 10%;
+}
+
+div {
+    text-align: center;
+}
